@@ -141,7 +141,7 @@ main {
 .fog-1{
     position: absolute;
     z-index: 2;
-    width: 1900px;
+    width: 98.95%;
     top: calc(50% - 100px);
     left: calc(50% + 300px);
      
