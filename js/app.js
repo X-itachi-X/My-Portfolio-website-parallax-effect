@@ -10,6 +10,8 @@ window.addEventListener("mousemove", (e) => {
         let speedx = el.dataset.speedx;
         let speedy = el.dataset.speedy;
 
+        const forTest = document.querySelector(".mountain-2");
+
         let zValue = e.clientX - getComputedStyle(el).left;
         el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy}px)) perspective(2300px) translateZ(${zValue}px)`;
     })
