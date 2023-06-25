@@ -32,7 +32,7 @@ window.addEventListener("mousemove", (e) => {
 let timeline = gsap.timeline();
 
 Array.from(parallax_el)
-.filter(el => el.classList)
+.filter(el => el.classList.contains)
 .forEach((el) => {
     timeline.from(
         el,
