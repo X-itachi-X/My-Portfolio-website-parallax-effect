@@ -33,7 +33,7 @@ header{
 
 header nav{
    
-    max-width: 100%;
+    max-width: 1400px;
     margin: 0 auto;
     padding: 0 2rem;
     display: flex;
@@ -297,7 +297,7 @@ main {
 .mountain-1{
     position: absolute;
     z-index: 18;
-    width: 450px;
+    width: 780px;
     top: calc(50% + 91.5px);
     left: calc(50% - 601px);
     transform: translate(-50%, -50%);    
