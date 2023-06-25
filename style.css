@@ -121,7 +121,7 @@ main {
 }
 
 .bg-img{
-    position: relative;
+    position: absolute;
     width: 2800px;
     top: calc(50% - 390px);
     left: calc(50% + 10px);
@@ -130,7 +130,7 @@ main {
 }
 
 .fog-7{
-    position: relative;
+    position: absolute;
     width: 1900px;
     top: calc(50% - 100px);
     left: calc(50% + 300px);
