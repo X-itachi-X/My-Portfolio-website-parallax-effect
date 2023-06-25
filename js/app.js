@@ -1,1 +1,1 @@
-const parallax_el = document.querySelectorAll("")
+const parallax_el = document.querySelectorAll(".parallax");
