@@ -132,7 +132,7 @@ main {
 .bg-img{
     position: absolute;
     width: 180vh;
-    top: 28%;
+    top: 0;
     left: calc(50% + 10px);
      
     z-index: 1;
