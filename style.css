@@ -219,3 +219,12 @@ main {
     font-size: 8rem;
     line-height: 0.88;
 }
+
+.mountain-7{
+    position: absolute;
+    z-index: 10;
+    width: 538px;
+    top: calc(50% + 123px);
+    left: calc(50% + 305px);
+    transform: translate(-50%, -50%);    
+}
