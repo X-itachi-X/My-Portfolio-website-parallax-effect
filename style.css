@@ -131,8 +131,8 @@ main {
 
 .bg-img{
     position: absolute;
-    width: 190%;
-    top: 18%;
+    width: 2800px;
+    top: calc(50% - 390px);
     left: calc(50% + 10px);
      
     z-index: 1;
