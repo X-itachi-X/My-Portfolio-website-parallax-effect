@@ -397,4 +397,8 @@ main {
     .hamberger {
         padding-left: 0.9rem;
     }
+
+    .hamberger a{
+        height: 3
+    }
 }
