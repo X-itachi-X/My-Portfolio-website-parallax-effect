@@ -126,7 +126,7 @@ main {
 
 .parallax{
     pointer-events: none;
-    
+    transition: 0.45s;
 }
 
 .bg-img{
