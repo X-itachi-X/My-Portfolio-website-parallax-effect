@@ -44,5 +44,6 @@ header ul{
 header ul a{
     text-decoration: none;
     color: #fff;
-    padding: ;
+    padding: 0 1.5rem;
+    text-transform: uppercase;
 }
