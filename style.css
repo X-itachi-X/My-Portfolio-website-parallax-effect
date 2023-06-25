@@ -173,7 +173,7 @@ main {
     position: absolute;
     z-index: 5;
     width: 463px;
-    top: calc(50% + 119px);
+    top: 61%;
     left: calc(50% - 457px);
      
 }
