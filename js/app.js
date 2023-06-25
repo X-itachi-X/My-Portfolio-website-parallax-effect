@@ -10,7 +10,7 @@ window.addEventListener("mousemove", (e) => {
         let speedx = el.dataset.speedx;
         let speedy = el.dataset.speedy;
 
-        let zValue = 100;
+        let zValue = 1000;
         el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy}px)) perspective(2300px) translateZ(${zValue}px)`;
     })
 })
