@@ -233,7 +233,7 @@ main {
     position: absolute;
     z-index: 10;
     width: 19.94%;
-    top: calc(50% + 86.5px);
+    top: 52%;
     left: 86%;
      
 }
