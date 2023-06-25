@@ -380,6 +380,10 @@ main {
     }
 
     .logo{
-        width: 50px
+        width: 50px;
+    }
+
+    header ul{
+        
     }
 }
