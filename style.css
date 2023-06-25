@@ -73,6 +73,7 @@ header ul a{
 }
 
 .hamburger .bar{
+    position: relative;
     width: 52%;
     height: 1.3px;
     background-color: #fff;
