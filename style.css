@@ -391,5 +391,6 @@ main {
     
     .search{
         font-size: 0.85rem;
+        padding: 0 1.8rem;
     }
 }
