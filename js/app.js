@@ -31,7 +31,7 @@ window.addEventListener("mousemove", (e) => {
 
 let timeline = gsap.timeline();
 
-parallax_el.forEach(el => {
+parallax_el.filter().forEach(el => {
     timeline.from(
         el,
         ".bg-img",
