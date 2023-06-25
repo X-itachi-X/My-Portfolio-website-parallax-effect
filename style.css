@@ -388,4 +388,8 @@ main {
         padding: 0 0.9rem;
 
     }
+    
+    .search{
+        font-size: 0.85rem;
+    }
 }
