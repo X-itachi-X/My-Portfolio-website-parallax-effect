@@ -69,3 +69,8 @@ header ul a{
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
 }
+
+.hamburger .bar{
+    width: 52%;
+    height: 1.3px;
+}
