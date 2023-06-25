@@ -119,3 +119,7 @@ main {
     overflow: hidden;
 
 }
+
+.bg-img{
+    position: relative;
+}
