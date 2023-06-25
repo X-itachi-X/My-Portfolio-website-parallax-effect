@@ -58,6 +58,7 @@ header ul a{
 .hamburger a{
     width: 37px;
     height: 37px;
+    display: inline;
     border-radius: 50%;
     background-color: rgba(115, 115, 115, 0.7);
 
