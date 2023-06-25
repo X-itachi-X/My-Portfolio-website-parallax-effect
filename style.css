@@ -363,3 +363,13 @@ main {
         font-size: 4.7rem;
     }
 }
+
+@media (max-width: 724px){
+    .text h1{
+        font-size: 5.8rem;
+    }
+
+    .text h2{
+        font-size: 4.7rem;
+    }
+}
