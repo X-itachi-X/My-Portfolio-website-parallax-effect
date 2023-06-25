@@ -165,14 +165,14 @@ main {
     z-index: 4;
     width: 127.29%;
     top: calc(50% + 95px);
-    left: 50.48;
+    left: 50.48%;
       
 }
 
 .mountain-9{
     position: absolute;
     z-index: 5;
-    width: 463px;
+    width: 32.15%;
     top: calc(50% + 119px);
     left: calc(50% - 457px);
      
