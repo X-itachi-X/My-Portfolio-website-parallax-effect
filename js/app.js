@@ -51,6 +51,10 @@ timeline.from(".text h1",{
     duration: 2,
 },
 "2.5"
-).from(".text")
+).from(".text h2",{
+    y: -150,
+    
+
+});
 
 
