@@ -131,9 +131,9 @@ main {
 
 .bg-img{
     position: absolute;
-    width: (2800/1920)%;
-    top: calc(50% - (390px/1080)%);
-    left: calc(50% + (10px/1920)%);
+    width: 280000/1920%;
+    top: calc(50% - 39000/1080%);
+    left: calc(50% + 1000/1920%);
      
     z-index: 1;
 }
@@ -141,9 +141,9 @@ main {
 .fog-1{
     position: absolute;
     z-index: 2;
-    width: (1900/1920)%;
-    top: calc(50% - (100/1080)%);
-    left: calc(50% + (300/1920)%);
+    width: 190000/1920%;
+    top: calc(50% - 10000/1080%);
+    left: calc(50% + 30000/1920%);
      
     
 
@@ -152,9 +152,9 @@ main {
 .mountain-10{
     position: absolute;
     z-index: 3;
-    width: (870/1920);
-    top: calc(50% + (69/1080));
-    left: calc(50% + (230/1920));
+    width: 87000/1920;
+    top: calc(50% + 6900/1080%);
+    left: calc(50% + 23000/1920%);
     
    
     
@@ -163,45 +163,45 @@ main {
 .fog-2{
     position: absolute;
     z-index: 4;
-    width: (1833/1920);
-    top: calc(50% + (95/1080));
-    left: calc(50% + (7/1920));
+    width: 183300/1920%;
+    top: calc(50% + 9500/1080%);
+    left: calc(50% + 700/1920%);
       
 }
 
 .mountain-9{
     position: absolute;
     z-index: 5;
-    width: (463/1920);
-    top: calc(50% + (119/1080));
-    left: calc(50% - (457/1920));
+    width: 46300/1920%;
+    top: calc(50% + 11900/1080%);
+    left: calc(50% - 45700/1920%);
      
 }
 
 .mountain-8{
     position: absolute;
     z-index: 6;
-    width: (786/1920);
-    top: calc(50% + (96/1080));
-    left: calc(50% - (202/1920));
+    width: 78600/1920%;
+    top: calc(50% + 9600/1080%);
+    left: calc(50% - 20200/1920%);
      
 }
 
 .fog-3{
     position: absolute;
     z-index: 7;
-    width: (449/1920);
-    top: calc(50% + (171/1080));
-    left: calc(50% + (29/1920));
+    width: 44900/1920%;
+    top: calc(50% + 17100/1080%);
+    left: calc(50% + 2900/1920%);
      
 }
 
 .mountain-7{
     position: absolute;
     z-index: 8;
-    width: (515/1920);
-    top: calc(50% + (134/1080));
-    left: calc(50% + (305/1920));
+    width: 51500/1920%;
+    top: calc(50% + 13400/1080%);
+    left: calc(50% + 30500/1920%);
     
 }
 
