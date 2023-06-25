@@ -18,7 +18,7 @@ function update(cursorPosition) {
     });
 }
 
-update()
+update(0);
 
 window.addEventListener("mousemove", (e) => {
     xValue = e.clientX - window.innerWidth / 2;
