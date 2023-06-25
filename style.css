@@ -374,4 +374,8 @@ main {
         font-size: 4.1rem;
         line-height: 1.1;
     }
+
+    header nav{
+        padding: 0 1rem;
+    }
 }
