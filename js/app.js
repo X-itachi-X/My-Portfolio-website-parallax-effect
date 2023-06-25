@@ -11,7 +11,7 @@ window.addEventListener("mousemove", (e) => {
         let speedx = el.dataset.speedx;
         let speedy = el.dataset.speedy;
         let speedz = el.dataset.speedz;
-        let rotateSpeed = el.dataset.rotate;
+        let rotateSpeed = el.dataset.rotation;
         
         let isInLeft = parseFloat(getComputedStyle(el).left) < window.innerWidth / 2 ? 1 : -1;
         let zValue = (e.clientX - parseFloat(getComputedStyle(el).left)) * isInLeft *0.1;
