@@ -36,5 +36,5 @@ header nav{
 }
 
 header ul{
-    
+    display: flex;
 }
