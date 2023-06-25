@@ -124,16 +124,16 @@ main {
     position: relative;
     width: 2800px;
     top: calc(50% - 390px);
-    left: calc(50% +10px);
+    left: calc(50% + 10px);
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 .fog-7{
     position: relative;
-    width: 2800px;
-    top: calc(50% - 390px);
-    left: calc(50% +10px);
+    width: 1900px;
+    top: calc(50% - 100px);
+    left: calc(50% + 300px);
     left: 50%;
     transform: translate(-50%, -50%);
 }
