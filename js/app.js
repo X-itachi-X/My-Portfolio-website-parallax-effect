@@ -53,7 +53,8 @@ timeline.from(".text h1",{
 "2.5"
 ).from(".text h2",{
     y: -150,
-    
+    opacity: 0,
+    duration: 1.5,
 
 });
 
