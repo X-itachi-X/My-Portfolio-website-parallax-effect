@@ -190,7 +190,7 @@ main {
 .mountain-7{
     position: absolute;
     z-index: 8;
-    width: 810px;
+    width: 538px;
     top: calc(50% + 86px);
     left: calc(50% - 202px);
     transform: translate(-50%, -50%);    
