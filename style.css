@@ -332,7 +332,7 @@ main {
     position: absolute;
     z-index: 20;
     top: 0;
-    right: -30%;
+    right: 30%;
     width: 6000%;
     pointer-events: none;  
 }
