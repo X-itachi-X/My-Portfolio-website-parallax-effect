@@ -326,7 +326,7 @@ main {
     position: absolute;
     z-index: 21;
     width: 1600px;
-    top: calc(50% - 100px);
+    top: calc(100%);
     left: 50%;
     transform: translate(-50%, -50%);
     
