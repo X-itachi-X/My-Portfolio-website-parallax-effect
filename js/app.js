@@ -6,5 +6,5 @@ window.addEventListener("mousemove", (e) => {
     xValue = e.clientX;
     yValue = e.clientY;
 
-    
+    console.log
 })
