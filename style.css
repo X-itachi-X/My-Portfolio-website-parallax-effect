@@ -125,7 +125,6 @@ main {
     width: 2800px;
     top: calc(50% - 390px);
     left: calc(50% + 10px);
-    left: 50%;
     transform: translate(-50%, -50%);
     z-index: 1;
 }
@@ -136,7 +135,6 @@ main {
     width: 1900px;
     top: calc(50% - 100px);
     left: calc(50% + 300px);
-    left: 50%;
     transform: translate(-50%, -50%);
     
 
@@ -148,7 +146,6 @@ main {
     width: 892px;
     top: calc(50% + 69px);
     left: calc(50% + 230px);
-    left: 50%;
     transform: translate(-50%, -50%);
    
     
@@ -156,11 +153,10 @@ main {
 
 .fog-6{
     position: absolute;
-    z-index: 3;
+    z-index: 4;
     width: 892px;
     top: calc(50% + 69px);
     left: calc(50% + 230px);
-    left: 50%;
     transform: translate(-50%, -50%);
    
     
