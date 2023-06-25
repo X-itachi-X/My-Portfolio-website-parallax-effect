@@ -310,5 +310,14 @@ main {
     top: 0;
     right: 0;
     width: 595px;
+
+}
+
+.black-shadow {
+    position: absolute;
+    z-index: 20;
+    top: 0;
+    right: 0;
+    width: 595px;
     
 }
