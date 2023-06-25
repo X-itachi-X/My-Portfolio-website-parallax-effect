@@ -297,8 +297,9 @@ main {
     position: absolute;
     z-index: 17;
     width: 625px;
-    top: calc(50% + 188px);
-    left: calc(50% + 412px);
+    /* top: calc(50% + 188px);
+    left: calc(50% + 412px); */
+    bottom: -50%;
     
 }
 
