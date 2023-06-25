@@ -145,8 +145,8 @@ main {
 .mountain-10{
     position: absolute;
     z-index: 3;
-    width: 1900px;
-    top: calc(50% - 100px);
+    width: 892px;
+    top: calc(50% + 69px);
     left: calc(50% + 300px);
     left: 50%;
     transform: translate(-50%, -50%);
