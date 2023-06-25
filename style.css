@@ -269,8 +269,10 @@ main {
     position: absolute;
     z-index: 14;
     width: 717px;
+    /* top: calc(50% + 221px);
+    left: calc(50% - 381.5px); */
     top: calc(50% + 221px);
-    left: calc(50% - 381.5px);
+    left: 30.15%;
        
 }
 
