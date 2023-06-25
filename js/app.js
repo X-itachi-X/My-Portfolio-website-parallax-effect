@@ -11,7 +11,7 @@ function update(cursorPosition) {
         let rotateSpeed = el.dataset.rotation;
         
         let isInLeft = parseFloat(getComputedStyle(el).left) < window.innerWidth / 2 ? 1 : -1;
-        let zValue = (e.clientX - parseFloat(getComputedStyle(el).left)) * isInLeft *0.1;
+        let zValue = (cursorPosition - parseFloat(getComputedStyle(el).left)) * isInLeft *0.1;
         
         
         el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy}px)) perspective(2300px) translateZ(${zValue * speedz}px) rotateY(${rotateDegree * rotateSpeed}deg)`;
