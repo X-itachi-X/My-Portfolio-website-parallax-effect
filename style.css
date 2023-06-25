@@ -393,4 +393,8 @@ main {
         font-size: 0.85rem;
         padding: 0 1.8rem;
     }
+
+    .hamberger {
+        padding-left: 0.9rem;
+    }
 }
