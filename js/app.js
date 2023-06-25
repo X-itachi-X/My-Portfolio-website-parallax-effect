@@ -12,7 +12,7 @@ window.addEventListener("mousemove", (e) => {
 
         
         let isInLeft = parseFloat(getComputedStyle(el).left) < window.innerWidth / 2 ? 1 : -1;
-        let zValue = e.clientX - parseFloat(getComputedStyle(el).left) * isInLeft;
+        let zValue = (e.clientX - parseFloat(getComputedStyle(el).left)) * isInLeft;
         
         
         el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy}px)) perspective(2300px) translateZ(${zValue}px)`;
