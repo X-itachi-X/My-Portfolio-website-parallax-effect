@@ -259,7 +259,7 @@ main {
 .fog-5{
     position: absolute;
     z-index: 13;
-    width: 1435px;
+    width: 110%;
     top: calc(50% + 149px);
     left: calc(50% - 28px);
        
