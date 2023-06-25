@@ -54,3 +54,11 @@ header ul a{
     font-size: 1.05rem;
     padding: 0 3rem;
 }
+
+.hamburger a{
+    width: 37px;
+    height: 37px;
+    border-radius: 50%;
+    background-color: rgba(115, 115, 115);
+
+}
