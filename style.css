@@ -240,7 +240,7 @@ main {
 
 .mountain-5{
     position: absolute;
-    z-index: 10;
+    z-index: 12;
     width: 408px;
     top: calc(50% + 60px);
     left: calc(50% + 590px);
