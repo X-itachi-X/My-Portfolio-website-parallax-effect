@@ -59,6 +59,6 @@ header ul a{
     width: 37px;
     height: 37px;
     border-radius: 50%;
-    background-color: rgba(115, 115, 115);
+    background-color: rgba(115, 115, 115, 0.7);
 
 }
