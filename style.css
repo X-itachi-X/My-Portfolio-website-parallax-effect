@@ -331,7 +331,7 @@ main {
     pointer-events: none;  
 }
 
-.fog-1{
+/* .fog-1{
     position: absolute;
     z-index: 21;
     width: 1600px;
@@ -340,7 +340,7 @@ main {
     
     
 
-}
+} */
 
 .vignette{
     position: absolute;
