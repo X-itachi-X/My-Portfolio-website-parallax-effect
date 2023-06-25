@@ -270,7 +270,7 @@ main {
     z-index: 15;
     width: 780px;
     top: calc(50% + 133px);
-    left: calc(50% + 130px);
+    left: calc(50% + 736px);
     transform: translate(-50%, -50%);    
 }
 
