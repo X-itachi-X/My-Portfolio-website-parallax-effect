@@ -16,7 +16,7 @@ body{
 
 .logo{
     width: 100px;
-
+    border-radius: 50%;
 }
 
 .header{
