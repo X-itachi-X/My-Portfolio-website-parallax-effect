@@ -206,5 +206,10 @@ main {
     text-align: center;
     text-transform: uppercase;
     color: #fff;
-    
+
+}
+
+.text h2{
+    font-weight: 100;
+    font-size: 6.5rem;
 }
