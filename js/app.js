@@ -32,14 +32,14 @@ window.addEventListener("mousemove", (e) => {
 let timeline = gsap.timeline();
 
 parallax_el.forEach(el => {
+    timeline.from(
+        ".bg-img",
+        {
+        top: `${document.querySelector(".bg-img").offsetHeight / 2 - 200}px `,
+        duration: 1,
+        }, 
+        "1"   
+    );
 
 });
 
-timeline.from(
-    ".bg-img",
-    {
-    top: `${document.querySelector(".bg-img").offsetHeight / 2 - 200}px `,
-    duration: 1,
-    }, 
-    "1"   
-);
