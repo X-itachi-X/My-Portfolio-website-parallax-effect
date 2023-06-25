@@ -200,7 +200,7 @@ main {
     position: absolute;
     z-index: 8;
     width: 515px;
-    top: calc(50% + 134px);
+    top: 50%;
     left: 65%;
     
 }
