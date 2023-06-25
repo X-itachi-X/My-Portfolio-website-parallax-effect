@@ -299,8 +299,9 @@ main {
     width: 625px;
     /* top: calc(50% + 188px);
     left: calc(50% + 412px); */
-    right: 10%;
-}
+     top: calc(50% + 188px);
+    left: calc(50% + 412px);
+} 
 
 
 .mountain-1{
