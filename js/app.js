@@ -46,5 +46,7 @@ Array.from(parallax_el)
 
 });
 
-timeline.from(".text h1")
+timeline.from(".text h1",{
+    
+})
 
