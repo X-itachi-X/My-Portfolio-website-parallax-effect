@@ -297,7 +297,7 @@ main {
 .mountain-1{
     position: absolute;
     z-index: 18;
-    width: 780px;
+    width: 450px;
     top: calc(50% + 91.5px);
     left: calc(50% - 601px);
     transform: translate(-50%, -50%);    
