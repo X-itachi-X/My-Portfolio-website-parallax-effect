@@ -1,0 +1,1 @@
+const parallax_el = document.querySelectorAll("")
