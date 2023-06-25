@@ -224,7 +224,7 @@ main {
     position: absolute;
     z-index: 10;
     width: 538px;
-    top: calc(50% + 123px);
+    top: calc(50% + 60px);
     left: calc(50% + 305px);
     transform: translate(-50%, -50%);    
 }
