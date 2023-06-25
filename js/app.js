@@ -30,6 +30,11 @@ window.addEventListener("mousemove", (e) => {
 /* GSAP Animation */
 
 let timeline = gsap.timeline();
+
+parallax_el.forEach(el => {
+
+});
+
 timeline.from(
     ".bg-img",
     {
