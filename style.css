@@ -157,8 +157,15 @@ main {
     width: 1610px;
     top: calc(50% + 85px);
     left: calc(50% + 10px);
-    transform: translate(-50%, -50%);
-   
-    
+    transform: translate(-50%, -50%);    
+}
+
+.fog-6{
+    position: absolute;
+    z-index: 4;
+    width: 1610px;
+    top: calc(50% + 85px);
+    left: calc(50% + 10px);
+    transform: translate(-50%, -50%);    
 }
 
