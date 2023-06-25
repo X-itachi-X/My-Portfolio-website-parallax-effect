@@ -84,4 +84,8 @@ header ul a{
 .hamburger .bar::before, .hamburger .bar::after{
     content: "";
     position: absolute;
+    width: 60%;
+    height: 100%;
+    background-color: inherit;
+    
 }
