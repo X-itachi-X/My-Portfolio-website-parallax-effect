@@ -154,3 +154,15 @@ main {
     
 }
 
+.fog-6{
+    position: absolute;
+    z-index: 3;
+    width: 892px;
+    top: calc(50% + 69px);
+    left: calc(50% + 230px);
+    left: 50%;
+    transform: translate(-50%, -50%);
+   
+    
+}
+
