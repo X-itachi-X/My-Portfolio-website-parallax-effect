@@ -200,7 +200,7 @@ main {
 .text{
     position: absolute;
     z-index: 9;
-    top: 50%;
+    top: calc(50% - 130px);
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
