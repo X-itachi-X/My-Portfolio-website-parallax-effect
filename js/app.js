@@ -14,7 +14,7 @@ function update(cursorPosition) {
         let zValue = (cursorPosition - parseFloat(getComputedStyle(el).left)) * isInLeft *0.1;
         
         
-        el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy * 0.1}px)) perspective(2300px) translateZ(${zValue * speedz}px) rotateY(${rotateDegree * rotateSpeed}deg)`;
+        el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy * 0.7}px)) perspective(2300px) translateZ(${zValue * speedz}px) rotateY(${rotateDegree * rotateSpeed}deg)`;
     });
 }
 
