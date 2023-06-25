@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;800&display=swap");
+
 *, 
 *::before, 
 *::after{
@@ -72,20 +73,35 @@ header ul a{
     align-items: center;
 }
 
-.hamburger .bar{
+.hamburger .bar {
     position: relative;
     width: 52%;
     height: 1.3px;
     background-color: #fff;
     border-radius: 2px;
-
+    
 }
 
-.hamburger .bar::before, .hamburger .bar::after{
+.hamburger .bar::before,
+.hamburger .bar::after 
+{
     content: "";
     position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
     width: 60%;
     height: 100%;
     background-color: inherit;
     border-radius: 2px;
+    
+}
+
+.hamburger .bar::before
+{
+    top: -4.5px;
+}
+
+.hamburger .bar::after
+{
+    top: 4.5px;
 }
