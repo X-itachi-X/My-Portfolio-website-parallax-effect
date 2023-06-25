@@ -242,7 +242,7 @@ main {
     position: absolute;
     z-index: 12;
     width: 583px;
-    top: calc(50% + 250px);
+    top: calc(50% + 269px);
     left: calc(50% + 130px);
     transform: translate(-50%, -50%);    
 }
