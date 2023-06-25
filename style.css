@@ -69,6 +69,7 @@ header ul a{
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     justify-content: center;
+    align-items: center;
 }
 
 .hamburger .bar{
