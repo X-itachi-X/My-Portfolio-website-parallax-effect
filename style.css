@@ -256,9 +256,9 @@ main {
     transform: translate(-50%, -50%);    
 }
 
-.mountain-5{
+.mountain-4{
     position: absolute;
-    z-index: 12;
+    z-index: 14;
     width: 625px;
     top: calc(50% + 250px);
     left: calc(50% + 130px);
