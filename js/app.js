@@ -31,7 +31,7 @@ window.addEventListener("mousemove", (e) => {
 
 let timeline = gsap.timeline();
 timeline.from(".bg-img",{
-    top: `${document.querySelector(".bg-img").offsetHeight / 2}px `,
+    top: `${document.querySelector(".bg-img").offsetHeight / 2 - 200}px `,
     duration: 3.5,
 
 });
