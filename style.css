@@ -80,3 +80,8 @@ header ul a{
     border-radius: 2px;
 
 }
+
+.hamburger .bar::before, .hamburger .bar::after{
+    content: "";
+    position: absolute;
+}
