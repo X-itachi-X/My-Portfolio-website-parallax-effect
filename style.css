@@ -133,7 +133,7 @@ main {
     position: absolute;
     width: 194.44%;
     top: 1.86%;
-    left: 50.69%;
+    left: calc(50% + 10px);
      
     z-index: 1;
 }
@@ -141,9 +141,9 @@ main {
 .fog-1{
     position: absolute;
     z-index: 2;
-    width: 131.94%;
+    width: 1900px;
     top: calc(50% - 100px);
-    left: 29.16%;
+    left: calc(50% + 300px);
      
     
 
@@ -152,9 +152,9 @@ main {
 .mountain-10{
     position: absolute;
     z-index: 3;
-    width: 60.41%;
+    width: 870px;
     top: calc(50% + 69px);
-    left: 34.02%;
+    left: calc(50% + 230px);
     
    
     
@@ -163,7 +163,7 @@ main {
 .fog-2{
     position: absolute;
     z-index: 4;
-    width: 127.29%;
+    width: 1833px;
     top: calc(50% + 95px);
     left: calc(50% + 7px);
       
