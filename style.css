@@ -40,3 +40,8 @@ header ul{
     list-style: none;
     align-items: center;
 }
+
+header ul a{
+    text-decoration: none;
+    
+}
