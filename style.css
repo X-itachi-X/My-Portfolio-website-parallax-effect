@@ -325,7 +325,7 @@ main {
 .fog-1{
     position: absolute;
     z-index: 21;
-    width: 1900px;
+    width: 1600px;
     top: calc(50% - 100px);
     left: calc(50% + 300px);
     transform: translate(-50%, -50%);
