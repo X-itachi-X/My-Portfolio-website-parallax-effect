@@ -12,8 +12,8 @@ window.addEventListener("mousemove", (e) => {
 
         const forTest = document.querySelector(".mountain-2");
 
-        let zValue = e.clientX - getComputedStyle(forTest).left;
-        console.log(parseFloat(getComputedStyle(forTest).left));
+        let zValue = e.clientX - parseFloat(getComputedStyle(forTest).left);
+        console.log(zValue);
         el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy}px)) perspective(2300px) translateZ(${zValue}px)`;
     })
 })
