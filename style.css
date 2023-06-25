@@ -164,7 +164,7 @@ main {
     position: absolute;
     z-index: 5;
     width: 892px;
-    top: calc(50% + 85px);
+    top: calc(50% + 113px);
     left: calc(50% + 10px);
     transform: translate(-50%, -50%);    
 }
