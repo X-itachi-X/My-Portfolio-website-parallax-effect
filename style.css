@@ -131,9 +131,9 @@ main {
 
 .bg-img{
     position: absolute;
-    width: 280000/1920%;
-    top: calc(50% - 39000/1080%);
-    left: calc(50% + 1000/1920%);
+    width: 2800px;
+    top: calc(50% - 390px);
+    left: calc(50% + 10px);
      
     z-index: 1;
 }
@@ -141,9 +141,9 @@ main {
 .fog-1{
     position: absolute;
     z-index: 2;
-    width: 190000/1920%;
-    top: calc(50% - 10000/1080%);
-    left: calc(50% + 30000/1920%);
+    width: 1900px;
+    top: calc(50% - 100px);
+    left: calc(50% + 300px);
      
     
 
@@ -152,9 +152,9 @@ main {
 .mountain-10{
     position: absolute;
     z-index: 3;
-    width: 87000/1920;
-    top: calc(50% + 6900/1080%);
-    left: calc(50% + 23000/1920%);
+    width: 870px;
+    top: calc(50% + 69px);
+    left: calc(50% + 230px);
     
    
     
@@ -163,45 +163,45 @@ main {
 .fog-2{
     position: absolute;
     z-index: 4;
-    width: 183300/1920%;
-    top: calc(50% + 9500/1080%);
-    left: calc(50% + 700/1920%);
+    width: 1833px;
+    top: calc(50% + 95px);
+    left: calc(50% + 7px);
       
 }
 
 .mountain-9{
     position: absolute;
     z-index: 5;
-    width: 46300/1920%;
-    top: calc(50% + 11900/1080%);
-    left: calc(50% - 45700/1920%);
+    width: 463px;
+    top: calc(50% + 119px);
+    left: calc(50% - 457px);
      
 }
 
 .mountain-8{
     position: absolute;
     z-index: 6;
-    width: 78600/1920%;
-    top: calc(50% + 9600/1080%);
-    left: calc(50% - 20200/1920%);
+    width: 786px;
+    top: calc(50% + 96px);
+    left: calc(50% - 202px);
      
 }
 
 .fog-3{
     position: absolute;
     z-index: 7;
-    width: 44900/1920%;
-    top: calc(50% + 17100/1080%);
-    left: calc(50% + 2900/1920%);
+    width: 449px;
+    top: calc(50% + 171px);
+    left: calc(50% + 29px);
      
 }
 
 .mountain-7{
     position: absolute;
     z-index: 8;
-    width: 51500/1920%;
-    top: calc(50% + 13400/1080%);
-    left: calc(50% + 30500/1920%);
+    width: 515px;
+    top: calc(50% + 134px);
+    left: calc(50% + 305px);
     
 }
 
@@ -232,54 +232,54 @@ main {
 .mountain-6{
     position: absolute;
     z-index: 10;
-    width: (383.5/1920)*100%;
-    top: calc(50% + (86.5/1080)*100%);
-    left: calc(50% + (590/1920)*100%);
+    width: 383.5px;
+    top: calc(50% + 86.5px);
+    left: calc(50% + 590px);
      
 }
 
 .fog-4{
     position: absolute;
     z-index: 11;
-    width: (543/1920)*100%;
-    top: calc(50% + (242/1080)*100%);
-    left: calc(50% - (64/1920)*100%);
+    width: 543px;
+    top: calc(50% + 242px);
+    left: calc(50% - 64px);
      
 }
 
 .mountain-5{
     position: absolute;
     z-index: 12;
-    width: (583/1920)*100%;
-    top: calc(50% + (269/1080)*100%);
-    left: calc(50% + (130/1920)*100%);
+    width: 583px;
+    top: calc(50% + 269px);
+    left: calc(50% + 130px);
        
 }
 
 .fog-5{
     position: absolute;
     z-index: 13;
-    width: (1435/1920)*100%;
-    top: calc(50% + (149/1080)*100%);
-    left: calc(50% - (28/1920)*100%);
+    width: 1435px;
+    top: calc(50% + 149px);
+    left: calc(50% - 28px);
        
 }
 
 .mountain-4{
     position: absolute;
     z-index: 14;
-    width: (717/1920)*100%;
-    top: calc(50% + (221/1080)*100%);
-    left: calc(50% - (381.5/1920)*100%);
+    width: 717px;
+    top: calc(50% + 221px);
+    left: calc(50% - 381.5px);
        
 }
 
 .mountain-3{
     position: absolute;
     z-index: 15;
-    width: (419/1920)*100%;
-    top: calc(50% + (133/1080)*100%);
-    left: calc(50% + (736/1920)*100%);
+    width: 419px;
+    top: calc(50% + 133px);
+    left: calc(50% + 736px);
     
 }
 
@@ -287,18 +287,18 @@ main {
 .fog-6{
     position: absolute;
     z-index: 16;
-    width: (1418/1920)*100%;
-    top: calc(50% + (177/1080)*100%);
-    left: calc(50% - (30/1920)*100%);
+    width: 1418px;
+    top: calc(50% + 177px);
+    left: calc(50% - 30px);
     
 }
 
 .mountain-2{
     position: absolute;
     z-index: 17;
-    width: (625/1920)*100%;
-    top: calc(50% + (188/1080)*100%);
-    left: calc(50% + (412/1920)*100%);
+    width: 625px;
+    top: calc(50% + 188px);
+    left: calc(50% + 412px);
     
 }
 
@@ -306,9 +306,9 @@ main {
 .mountain-1{
     position: absolute;
     z-index: 18;
-    width: (450/1920)*100%;
-    top: calc(50% + (91.5/1080)*100%);
-    left: calc(50% - (601/1920)*100%);
+    width: 450px;
+    top: calc(50% + 91.5px);
+    left: calc(50% - 601px);
    
 }
 
@@ -334,8 +334,8 @@ main {
 .fog-1{
     position: absolute;
     z-index: 21;
-    width: (1600/1920)*100%;
-    top: calc(100% - (355/1920)*100%);
+    width: 1600px;
+    top: calc(100% -355px);
     left: 50%;
     
     
