@@ -251,7 +251,7 @@ main {
     position: absolute;
     z-index: 12;
     width: 30.36%;
-    top: calc(50% + 269px);
+    top: 75%;
     left: calc(50% + 130px);
        
 }
