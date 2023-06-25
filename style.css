@@ -327,7 +327,7 @@ main {
     z-index: 21;
     width: 1600px;
     top: calc(50% - 100px);
-    left: calc(50% + 300px);
+    left: 50%;
     transform: translate(-50%, -50%);
     
 
