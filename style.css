@@ -187,9 +187,9 @@ main {
     transform: translate(-50%, -50%);    
 }
 
-.mountain-8{
+.mountain-7{
     position: absolute;
-    z-index: 6;
+    z-index: 8;
     width: 810px;
     top: calc(50% + 86px);
     left: calc(50% - 202px);
