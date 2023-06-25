@@ -169,3 +169,12 @@ main {
     transform: translate(-50%, -50%);    
 }
 
+.mountain-9{
+    position: absolute;
+    z-index: 5;
+    width: 470px;
+    top: calc(50% + 113px);
+    left: calc(50% - 457px);
+    transform: translate(-50%, -50%);    
+}
+
