@@ -378,4 +378,8 @@ main {
     header nav{
         padding: 0 1rem;
     }
+
+    .logo{
+        width: 50px
+    }
 }
