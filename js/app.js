@@ -6,5 +6,5 @@ window.addEventListener("mousemove", (e) => {
     xValue = e.clientX - window.innerWidth / 2;
     yValue = e.clientY - window.innerHeight / 2;
 
-    parallax_el
+    parallax_el.forEach
 })
