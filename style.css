@@ -131,7 +131,7 @@ main {
 
 .bg-img{
     position: absolute;
-    width: 180vh;
+    width: 190%;
     top: 0;
     left: calc(50% + 10px);
      
