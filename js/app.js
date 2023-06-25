@@ -46,3 +46,5 @@ Array.from(parallax_el)
 
 });
 
+timeline.from(".text h1")
+
