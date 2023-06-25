@@ -259,7 +259,7 @@ main {
 .mountain-4{
     position: absolute;
     z-index: 14;
-    width: 780px;
+    width: 717px;
     top: calc(50% + 196px);
     left: calc(50% + 130px);
     transform: translate(-50%, -50%);    
