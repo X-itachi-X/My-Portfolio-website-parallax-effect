@@ -74,5 +74,6 @@ header ul a{
     width: 52%;
     height: 1.3px;
     background-color: #fff;
-    
+    border-radius: 2px;
+
 }
