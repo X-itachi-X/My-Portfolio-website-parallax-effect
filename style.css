@@ -269,7 +269,7 @@ main {
     position: absolute;
     z-index: 15;
     width: 1600px;
-    top: calc(50% + 110px);
+    top: calc(50% + 177px);
     left: calc(50% - 15px);
     transform: translate(-50%, -50%);    
 }
