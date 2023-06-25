@@ -367,6 +367,7 @@ main {
 @media (max-width: 725px){
     .text h1{
         font-size: 5rem;
+        line-height: ;
     }
 
     .text h2{
