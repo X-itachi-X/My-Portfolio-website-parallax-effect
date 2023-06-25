@@ -47,6 +47,6 @@ Array.from(parallax_el)
 });
 
 timeline.from(".text h1",{
-    y: window.innerHeight - document.querySelector(".text h1").getBoundingClientRect.top
+    y: window.innerHeight - document.querySelector(".text h1").getBoundingClientRect().top
 })
 
