@@ -29,4 +29,4 @@ window.addEventListener("mousemove", (e) => {
 
 /* GSAP Animation */
 
-let timeline = gsap.timeline
+let timeline = gsap.timeline();
