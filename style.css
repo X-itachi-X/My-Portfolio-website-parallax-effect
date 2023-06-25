@@ -371,6 +371,7 @@ main {
     }
 
     .text h2{
-        font-size: 4.7rem;
+        font-size: 4.1rem;
+        line-height: 1.1;
     }
 }
