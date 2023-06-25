@@ -36,7 +36,7 @@ parallax_el.forEach(el => {
         el,
         ".bg-img",
         {
-        top: `${el.offsetHeight / 2 + el.dataset.distance}px`,
+        top: `${el.offsetHeight / 2 + +el.dataset.distance}px`,
         duration: 3,
         }, 
         "1"   
