@@ -7,6 +7,6 @@ window.addEventListener("mousemove", (e) => {
     yValue = e.clientY - window.innerHeight / 2;
 
     parallax_el.forEach(el => {
-        el.computedStyleMap.transform
+        el.computedStyleMap.transform = "transform: translate(-50%, -50%);";
     })
 })
