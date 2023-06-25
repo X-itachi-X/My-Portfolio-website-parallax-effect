@@ -260,7 +260,7 @@ main {
     position: absolute;
     z-index: 14;
     width: 717px;
-    top: calc(50% + 196px);
+    top: calc(50% + 221px);
     left: calc(50% + 130px);
     transform: translate(-50%, -50%);    
 }
