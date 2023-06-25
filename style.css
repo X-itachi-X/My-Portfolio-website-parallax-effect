@@ -207,7 +207,7 @@ main {
     z-index: 9;
     top: calc(50% - 130px);
     left: 50%;
-     
+    pointer-events: auto; 
     text-align: center;
     text-transform: uppercase;
     color: #fff;
