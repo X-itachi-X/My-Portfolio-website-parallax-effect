@@ -399,6 +399,7 @@ main {
     }
 
     .hamberger a{
-        height: 3
+        height: 30px;
+        
     }
 }
