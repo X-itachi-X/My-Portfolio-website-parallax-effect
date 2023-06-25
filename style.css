@@ -241,7 +241,7 @@ main {
 .mountain-5{
     position: absolute;
     z-index: 12;
-    width: 408px;
+    width: 625px;
     top: calc(50% + 60px);
     left: calc(50% + 590px);
     transform: translate(-50%, -50%);    
