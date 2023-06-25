@@ -3,7 +3,7 @@ const parallax_el = document.querySelectorAll(".parallax");
 let xValue=0 , yValue=0 ;
 let rotateDegree = 0;
 
-function update() {
+function update(cursorPosition) {
     parallax_el.forEach(el => {
         let speedx = el.dataset.speedx;
         let speedy = el.dataset.speedy;
