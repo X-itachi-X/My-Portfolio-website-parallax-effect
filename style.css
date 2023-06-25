@@ -156,7 +156,7 @@ main {
     z-index: 4;
     width: 1610px;
     top: calc(50% + 85px);
-    left: calc(50% + 230px);
+    left: calc(50% + 10px);
     transform: translate(-50%, -50%);
    
     
