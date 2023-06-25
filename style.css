@@ -24,6 +24,9 @@ header{
     position: absolute;
     z-index: 9999;
     pading: 0.9rem 0;
+    top: 0;
+    left: 0;
+    
     width: 100%;
     border-bottom: 1px solid rgba(255, 255, 255, 0.1);
      
