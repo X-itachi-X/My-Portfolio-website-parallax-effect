@@ -228,3 +228,12 @@ main {
     left: calc(50% + 590px);
     transform: translate(-50%, -50%);    
 }
+
+.mountain-7{
+    position: absolute;
+    z-index: 10;
+    width: 408px;
+    top: calc(50% + 60px);
+    left: calc(50% + 590px);
+    transform: translate(-50%, -50%);    
+}
