@@ -26,3 +26,7 @@ window.addEventListener("mousemove", (e) => {
     rotateDegree = (xValue / (window.innerWidth / 2)) * 20;
     update(e.clientX);
 });
+
+/* GSAP Animation */
+
+let timeline
