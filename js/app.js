@@ -38,7 +38,7 @@ Array.from(parallax_el)
         el,
         {
         top: `${el.offsetHeight / 2 + +el.dataset.distance}px`,
-        duration: 3,
+        duration: 3.5,
         }, 
         "1"   
     );
