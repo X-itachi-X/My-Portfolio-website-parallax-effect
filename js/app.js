@@ -33,6 +33,7 @@ let timeline = gsap.timeline();
 
 parallax_el.forEach(el => {
     timeline.from(
+        el,
         ".bg-img",
         {
         top: `${document.querySelector(".bg-img").offsetHeight / 2 - 200}px `,
