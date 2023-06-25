@@ -11,12 +11,12 @@ window.addEventListener("mousemove", (e) => {
         let speedx = el.dataset.speedx;
         let speedy = el.dataset.speedy;
         let speedz = el.dataset.speedz;
-        let rotationSpeed = el.dataset.rotate;
+        let rotateSpeed = el.dataset.rotate;
         
         let isInLeft = parseFloat(getComputedStyle(el).left) < window.innerWidth / 2 ? 1 : -1;
         let zValue = (e.clientX - parseFloat(getComputedStyle(el).left)) * isInLeft *0.1;
         
         
-        el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy}px)) perspective(2300px) translateZ(${zValue * speedz}px) rotateY(${rotateDegree * rotationSpeed}deg)`;
+        el.style.transform = `translateX(calc(-50% + ${-xValue * speedx}px)) translateY(calc(-50% + ${yValue * speedy}px)) perspective(2300px) translateZ(${zValue * speedz}px) rotateY(${rotateDegree * rotateSpeed}deg)`;
     })
 })
