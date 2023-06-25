@@ -30,3 +30,4 @@ window.addEventListener("mousemove", (e) => {
 /* GSAP Animation */
 
 let timeline = gsap.timeline();
+timeline.from(".bg-img")
