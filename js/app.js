@@ -38,8 +38,8 @@ parallax_el.forEach(el => {
         {
         top: `${el.offsetHeight / 2 + el.dataset.distance}px`,
         duration: 3,
-        }, 
-        "1"   
+        } 
+          
     );
 
 });
