@@ -21,6 +21,7 @@ function update(cursorPosition) {
 update(0);
 
 window.addEventListener("mousemove", (e) => {
+    if(timeline.isActive())
     xValue = e.clientX - window.innerWidth / 2;
     yValue = e.clientY - window.innerHeight / 2;
     rotateDegree = (xValue / (window.innerWidth / 2)) * 20;
