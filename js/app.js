@@ -1,3 +1,3 @@
 const parallax_el = document.querySelectorAll(".parallax");
 
-let xValue , yValue;
+let xValue=0 , yValue=0 ;
