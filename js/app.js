@@ -6,5 +6,7 @@ window.addEventListener("mousemove", (e) => {
     xValue = e.clientX - window.innerWidth / 2;
     yValue = e.clientY - window.innerHeight / 2;
 
-    parallax_el.forEach
+    parallax_el.forEach(el => {
+        el.computedStyleMap.transform
+    })
 })
