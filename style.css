@@ -329,7 +329,7 @@ main {
 }
 
 .black-shadow {
-    position: absolute;
+    position: relative;
     z-index: 20;
     top: 0;
     left: 50%;
