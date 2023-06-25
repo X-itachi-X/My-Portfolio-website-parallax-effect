@@ -315,7 +315,7 @@ main {
     top: 0;
     right: 0;
     width: 595px;
-
+    pointer-events: none;
 }
 
 .black-shadow {
