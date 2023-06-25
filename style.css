@@ -198,5 +198,6 @@ main {
 
 
 .text{
+    position: absolute;
     z-index: 9;
 }
