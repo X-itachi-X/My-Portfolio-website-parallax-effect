@@ -308,7 +308,7 @@ main {
     z-index: 18;
     width: 450px;
     /* top: calc(50% + 91.5px); */
-    top: 70%;
+    bottom: 0%;
     left: calc(50% - 601px);
    
 }
