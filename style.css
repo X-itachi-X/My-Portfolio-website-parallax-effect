@@ -251,7 +251,7 @@ main {
     position: absolute;
     z-index: 13;
     width: 1600px;
-    top: calc(50% + 110px);
+    top: calc(50% + 149px);
     left: calc(50% - 15px);
     transform: translate(-50%, -50%);    
 }
