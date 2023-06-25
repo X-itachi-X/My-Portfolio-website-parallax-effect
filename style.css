@@ -246,3 +246,12 @@ main {
     left: calc(50% + 130px);
     transform: translate(-50%, -50%);    
 }
+
+.fog-5{
+    position: absolute;
+    z-index: 13;
+    width: 1600px;
+    top: calc(50% + 223px);
+    left: calc(50% - 60px);
+    transform: translate(-50%, -50%);    
+}
