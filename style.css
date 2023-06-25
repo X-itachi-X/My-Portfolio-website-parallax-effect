@@ -33,7 +33,7 @@ header{
 
 header nav{
    
-    max-width: 1400px;
+    max-width: auto;
     margin: 0 auto;
     padding: 0 2rem;
     display: flex;
