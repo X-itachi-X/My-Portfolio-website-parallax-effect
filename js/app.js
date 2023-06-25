@@ -32,11 +32,10 @@ window.addEventListener("mousemove", (e) => {
 let timeline = gsap.timeline();
 
 Array.from(parallax_el)
-.filter(el => !el.classList.contains("text"))
+.filter((el) => !el.classList.contains("text"))
 .forEach((el) => {
     timeline.from(
         el,
-        ".bg-img",
         {
         top: `${el.offsetHeight / 2 + +el.dataset.distance}px`,
         duration: 3,
