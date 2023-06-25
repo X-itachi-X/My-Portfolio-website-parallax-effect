@@ -302,3 +302,13 @@ main {
     left: calc(50% - 601px);
     transform: translate(-50%, -50%);    
 }
+
+
+.sun-rays {
+    position: absolute;
+    z-index: 19;
+    top: 0;
+    right: 0;
+    width: 595px;
+    
+}
