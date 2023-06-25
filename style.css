@@ -191,7 +191,7 @@ main {
     position: absolute;
     z-index: 8;
     width: 538px;
-    top: calc(50% + 86px);
+    top: calc(50% + 123px);
     left: calc(50% - 202px);
     transform: translate(-50%, -50%);    
 }
