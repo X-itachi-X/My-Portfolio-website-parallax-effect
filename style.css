@@ -55,7 +55,12 @@ header ul a{
     padding: 0 3rem;
 }
 
+.hamburger{
+    padding-left: 1.5rem;
+}
+
 .hamburger a{
+    padding: 0;
     width: 37px;
     height: 37px;
     display: flex;
